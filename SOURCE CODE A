@@ -28,10 +28,8 @@ int main()
             lowest = marks[i];
     }
 
-    // Calculate average
     average = total / 10.0;
 
-    // Display results
     printf("\nAverage Mark = %.2f\n", average);
     printf("Highest Mark = %d\n", highest);
     printf("Lowest Mark = %d\n", lowest);
