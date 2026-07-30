@@ -1,7 +1,8 @@
+<img width="720" height="1500" alt="COMPILATION AND EXECUTION" src="https://github.com/user-[QUESTION 3.pdf](https://github.com/user-attachments/files/30551217/QUESTION.3.pdf)attachments/assets/b047c1b9-21fd-4db0-a8b2-7f993db9da95" />
 [QUESTION 2.pdf](https://github.com/user-attachments/files/30550083/QUESTION.2.pdf)
 
-<img width="720" height="1542" alt="SOURCR CODE 2" src="https://github.com/user-attachments/assets/83f73a14-401c-4aed-bdca-962ed0a8cf18" />
-<img width="720" height="1548" alt="SOURCE CODE 1" src="https://github.com/user-attachments/assets/98911764-39a9-48ed-b4aa-2038f3f1215f" />
+<img width="720" height="1542" alt="SOURCR CODE 2" <img width="720" height="1292" alt="SOURCE CODE" src="https://github.com/user-attachments/assets/f74234e7-6cc1-4192-9520-a5697cda007f" />
+4-39a9-48ed-b4aa-2038f3f1215f" />
 <img width="720" height="1561" alt="OUTPUT B" src="https://github.com/user-attachments/assets/46f30c91-0f2f-445a-8739-54b1da060b41" />
 
 #include <stdio.h>
